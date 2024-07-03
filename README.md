@@ -1,5 +1,5 @@
 # jenkins-sonarqube-docker
-create 3 EC2-Instances with t2-meduim configuration gor jenmins,sonarqube and docker
+create 3 EC2-Instances with t2-meduim configuration gor jenkins,sonarqube and docker
 ssh -i <jenkinspip.pem> <username>@<ip_address>
 
 if any permission denied error of the key (ssh key is too open)
